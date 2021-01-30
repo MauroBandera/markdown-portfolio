@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My favourites:
+
+* Traveling
+* Hiking
+* R
+* Nice cold beers
